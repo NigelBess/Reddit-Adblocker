@@ -1,4 +1,4 @@
-Instructions as of 6/1/2018:
+Instructions as of 7/23/2018:
 
 1. In chrome, open:
 chrome://extensions/
