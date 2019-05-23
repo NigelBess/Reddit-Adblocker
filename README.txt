@@ -1,4 +1,4 @@
-Instructions as of 7/23/2018:
+Instructions as of 5/22/2019:
 
 1. In chrome, open:
 chrome://extensions/
@@ -6,7 +6,7 @@ chrome://extensions/
 
 2. Check the "Developer Mode" Box
 
-3. Click the "Load unpacked extension..." button
+3. Click the "Load Unpacked" button
 
 4. Navigate to the folder where you saved these files.
 
